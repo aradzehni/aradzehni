@@ -7,4 +7,4 @@ I primarily work with Python and MATLAB, and I’m diving deep into scraping and
 
 I specialize in making unfunny jokes—because why not? :D
 
-Feel free to connect or collaborate!
+Feel free to connect!
